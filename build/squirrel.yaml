@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     squirrel: 1613228858
-    squirrel.custom: 1617801110
+    squirrel.custom: 1617801113
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -313,7 +313,7 @@ style:
   candidate_format: "%c %@  "
   color_scheme: purity_of_essence
   corner_radius: 5
-  font_point: 16
+  font_point: 14
   horizontal: true
   inline_preedit: true
 us_keyboard_layout: false

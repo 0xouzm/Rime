@@ -1,2 +1,5 @@
-build
+build/
 user.yaml
+.DS_Store
+installation.yaml
+*.userdb*
