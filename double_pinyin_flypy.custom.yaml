@@ -9,5 +9,7 @@ patch:
     - express_editor
 
   menu:
-    page_size: 4
+    page_size: 5
     page_down_cycle: true
+
+  translator/preedit_format: {}
