@@ -4,7 +4,4 @@ patch:
   style:
     color_scheme: purity_of_essence
     horizontal: true
-    inline_preedit: true
     font_point: 14
-    corner_radius: 5
-    candidate_format: "%c\u2005%@ \u2005"
