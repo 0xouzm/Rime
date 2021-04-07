@@ -1,6 +1,4 @@
 patch:
-  schema:
-    schema_id: double_pinyin_flypy
   style:
     color_scheme: purity_of_essence
     horizontal: true
