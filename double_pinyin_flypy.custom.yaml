@@ -1,0 +1,13 @@
+patch:
+  engine/processors:
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+
+  menu:
+    page_size: 4
+    page_down_cycle: true

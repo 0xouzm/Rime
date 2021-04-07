@@ -1,4 +1,5 @@
 patch:
+  app_options: {}
   style:
     color_scheme: purity_of_essence
     horizontal: true
