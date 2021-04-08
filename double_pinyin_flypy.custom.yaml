@@ -12,7 +12,10 @@ patch:
     page_size: 5
     page_down_cycle: true
 
-  translator/preedit_format: {}
+  translator:
+    preedit_format: {}
+    dictionary: squirrel
+
   punctuator:
     import_preset: default
     half_shape:
