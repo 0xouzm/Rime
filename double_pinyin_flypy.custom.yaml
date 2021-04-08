@@ -13,3 +13,20 @@ patch:
     page_down_cycle: true
 
   translator/preedit_format: {}
+  punctuator:
+    import_preset: default
+    half_shape:
+      "\\": "、"
+      "#": "#"
+      "@": "@"
+      "~": "~"
+      "/": "/"
+      "'": { pair: ["「", "」"] }
+      "[": "["
+      "]": "]"
+      "{": "{"
+      "}": "}"
+      "*": "*"
+      "%": "%"
+      "<": ["<", "《"]
+      ">": [">", "》"]
